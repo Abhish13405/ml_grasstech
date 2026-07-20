@@ -1,0 +1,11 @@
+Yeh in technologies ke full forms aur ek-line explanation hain:
+
+Short Form	Full Form	Simple Explanation
+
+KNN	K-Nearest Neighbors	Ek supervised ML algorithm jo nearest data points ke basis par prediction karta hai.
+
+SVM	Support Vector Machine	Classification aur regression ke liye use hone wala ML algorithm jo best decision boundary (hyperplane) find karta hai.
+
+Naive Bayes	Naive Bayes Classifier	Probability-based supervised ML algorithm jo Bayes' Theorem par kaam karta hai aur features ko independent maanta hai.
+
+Flask	Flask (Micro Web Framework)	Python ka lightweight web framework hai jisse ML models ko web applications me deploy kiya jata hai.
